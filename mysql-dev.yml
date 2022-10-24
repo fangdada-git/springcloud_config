@@ -1,5 +1,5 @@
   datasource:
-    data-username: rootss
+    data-username: root
     data-password: krqhpe-c9k)X
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://172.16.70.111:3306/direct_selling?useUnicode=true&rewriteBatchedStatements=true&characterEncoding=utf8&characterSetResults=utf8&allowMultiQueries=true
