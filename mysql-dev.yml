@@ -1,6 +1,6 @@
 spring:
   datasource:
-    username: roota
+    username: root
     password: krqhpe-c9k)X
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://127.0.0.1:3306/cloud?useUnicode=true&rewriteBatchedStatements=true&characterEncoding=utf8&characterSetResults=utf8&allowMultiQueries=true
